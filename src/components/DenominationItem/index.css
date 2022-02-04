@@ -1,0 +1,10 @@
+/* Write your CSS here */
+button {
+  width: 160px;
+  border: 1px solid #c7d2fe;
+  margin: 8px;
+  background-color: #585076;
+  color: #c7d2fe;
+  height: 40px;
+  border-radius: 5px;
+}
